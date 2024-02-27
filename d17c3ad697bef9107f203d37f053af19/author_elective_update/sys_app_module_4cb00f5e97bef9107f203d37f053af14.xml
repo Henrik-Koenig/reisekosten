@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Reisekosten">48b00f5e97bef9107f203d37f053af11</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Reisekosten</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:57:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4cb00f5e97bef9107f203d37f053af14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reisekosten</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
+        <sys_update_name>sys_app_module_4cb00f5e97bef9107f203d37f053af14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 14:57:24</sys_updated_on>
+        <timeline_page/>
+        <title>Reisekosten</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</application>
+        <file_path/>
+        <instance_id>65b997e1dbda7110ba7f684e13961995</instance_id>
+        <instance_name>dev203764</instance_name>
+        <name>sys_app_module_4cb00f5e97bef9107f203d37f053af14</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Reisekosten">48b00f5e97bef9107f203d37f053af11</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Reisekosten</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:57:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4cb00f5e97bef9107f203d37f053af14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reisekosten</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
+        <sys_update_name>sys_app_module_4cb00f5e97bef9107f203d37f053af14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 14:57:24</sys_updated_on>
+        <timeline_page/>
+        <title>Reisekosten</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>]]></payload>
+        <payload_hash>2005850275</payload_hash>
+        <record_name>Reisekosten</record_name>
+        <reverted_from/>
+        <source>2e43f6d447ec0210151587fe016d43b8</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 08:41:01</sys_created_on>
+        <sys_id>a053fad447ec0210151587fe016d4339</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc5acef0c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 08:41:01</sys_updated_on>
+        <type>Module</type>
+        <update_guid>6053fad4beec02107fa7dcf6f4b5dd39</update_guid>
+        <update_guid_history>6053fad4beec02107fa7dcf6f4b5dd39:2005850275</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Reisekosten">2378952547ac0210151587fe016d4392</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-23 23:16:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0b6ed157d3044e848aa797c2ef61cea1</sys_id>
+        <sys_metadata>4cb00f5e97bef9107f203d37f053af14</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reisekosten</sys_name>
+        <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
+        <sys_scope_delete display_value="">5a6dc31175a5483085449b0fdcdb7dd1</sys_scope_delete>
+        <sys_update_name>sys_app_module_4cb00f5e97bef9107f203d37f053af14</sys_update_name>
+        <sys_update_version display_value="sys_app_module_4cb00f5e97bef9107f203d37f053af14">a053fad447ec0210151587fe016d4339</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-23 23:16:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

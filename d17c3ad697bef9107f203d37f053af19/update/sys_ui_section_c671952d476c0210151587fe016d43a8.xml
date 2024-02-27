@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="An-/Ab-reise" section_id="c671952d476c0210151587fe016d43a8" sys_domain="global" table="u_reisekosten" version="3" view="Reisekosten">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_anreisedatum</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-23 22:45:55</sys_created_on>
+            <sys_id>de71d52d476c0210151587fe016d4327</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="An-/Ab-reise" display_value="An-/Ab-reise" name="u_reisekosten" sys_domain="global" view="36a019e9476c0210151587fe016d43b8">c671952d476c0210151587fe016d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 22:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_abfahrtzeit</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-23 22:45:55</sys_created_on>
+            <sys_id>5271d52d476c0210151587fe016d4328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="An-/Ab-reise" display_value="An-/Ab-reise" name="u_reisekosten" sys_domain="global" view="36a019e9476c0210151587fe016d43b8">c671952d476c0210151587fe016d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 22:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_rueckreisedatum</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-23 22:45:55</sys_created_on>
+            <sys_id>d271d52d476c0210151587fe016d4328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="An-/Ab-reise" display_value="An-/Ab-reise" name="u_reisekosten" sys_domain="global" view="36a019e9476c0210151587fe016d43b8">c671952d476c0210151587fe016d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 22:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ankunftszeit</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-23 22:45:55</sys_created_on>
+            <sys_id>5671d52d476c0210151587fe016d4328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="An-/Ab-reise" display_value="An-/Ab-reise" name="u_reisekosten" sys_domain="global" view="36a019e9476c0210151587fe016d43b8">c671952d476c0210151587fe016d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 22:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>An-/Ab-reise</caption>
+            <header>false</header>
+            <name>u_reisekosten</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-23 22:45:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c671952d476c0210151587fe016d43a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_reisekosten</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
+            <sys_update_name>sys_ui_section_c671952d476c0210151587fe016d43a8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 22:45:54</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Reisekosten" name="Reisekosten">36a019e9476c0210151587fe016d43b8</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

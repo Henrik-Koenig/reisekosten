@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_auslagenart" table="u_reisekosten" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_auslagenart</element>
+            <name>u_reisekosten</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 06:58:56</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_auslagenart</sys_name>
+            <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
+            <sys_update_name>sys_choice_u_reisekosten_u_auslagenart</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 06:58:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_auslagenart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Autowäsche und -Zubehör</label>
+            <language>de</language>
+            <name>u_reisekosten</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 06:58:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 06:59:06</sys_updated_on>
+            <value>auz</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_auslagenart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Car wash and accessories</label>
+            <language>en</language>
+            <name>u_reisekosten</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 06:59:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 06:59:17</sys_updated_on>
+            <value>auz</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_auslagenart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bewirtung (Trinkgeld)</label>
+            <language>de</language>
+            <name>u_reisekosten</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 06:59:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 06:59:32</sys_updated_on>
+            <value>bto</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_auslagenart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hospitality (tips)</label>
+            <language>en</language>
+            <name>u_reisekosten</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 06:59:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 06:59:41</sys_updated_on>
+            <value>bto</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_auslagenart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Büro- und EDV-Material </label>
+            <language>de</language>
+            <name>u_reisekosten</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 06:59:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 07:00:03</sys_updated_on>
+            <value>bum</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_auslagenart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Office and computing materials</label>
+            <language>en</language>
+            <name>u_reisekosten</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 07:00:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 07:00:11</sys_updated_on>
+            <value>bum</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_auslagenart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fachliteratur </label>
+            <language>de</language>
+            <name>u_reisekosten</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 07:02:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 07:02:25</sys_updated_on>
+            <value>fl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_auslagenart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technical literature</label>
+            <language>en</language>
+            <name>u_reisekosten</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 07:02:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 07:02:32</sys_updated_on>
+            <value>fl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_auslagenart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kraftstoff </label>
+            <language>de</language>
+            <name>u_reisekosten</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 07:02:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 07:02:45</sys_updated_on>
+            <value>ks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_auslagenart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fuel</label>
+            <language>en</language>
+            <name>u_reisekosten</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 07:02:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 07:02:53</sys_updated_on>
+            <value>ks</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
